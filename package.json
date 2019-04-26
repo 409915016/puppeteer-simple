@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "wap": "node src/index.js"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "puppeteer": "^1.15.0"
+  }
+}
